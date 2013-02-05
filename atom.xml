@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[The PetriDish Podcast]]></title>
   <link href="http://petridish.github.com/atom.xml" rel="self"/>
   <link href="http://petridish.github.com/"/>
-  <updated>2013-02-04T20:15:00-05:00</updated>
+  <updated>2013-02-04T21:05:10-05:00</updated>
   <id>http://petridish.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mandi Walls]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://petridish.github.com/blog/2013/02/04/hello/"/>
+    <updated>2013-02-04T21:03:00-05:00</updated>
+    <id>http://petridish.github.com/blog/2013/02/04/hello</id>
+    <content type="html"><![CDATA[<p>This is the first post for the PetriDish Podcast. More information is coming!</p>
+]]></content>
+  </entry>
   
 </feed>
