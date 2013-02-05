@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The PetriDish Podcast]]></title>
+  <title><![CDATA[The Petri Dish]]></title>
   <link href="http://petridish.github.com/atom.xml" rel="self"/>
   <link href="http://petridish.github.com/"/>
-  <updated>2013-02-05T00:15:04-05:00</updated>
+  <updated>2013-02-05T00:17:05-05:00</updated>
   <id>http://petridish.github.com/</id>
   <author>
     <name><![CDATA[Mandi Walls]]></name>
