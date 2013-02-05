@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://petridish.github.com/sitemap.xml 
